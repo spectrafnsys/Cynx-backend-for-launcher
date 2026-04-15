@@ -1,0 +1,78 @@
+{
+  "fortniteServerPath": "C:\\FortniteGame\\Binaries\\Win64\\FortniteServer-Win64-Shipping.exe",
+  "gameVersion": "12.41",
+  "maxPlayers": 100,
+  "serverPort": 7777,
+  "playlist": "playlist_defaultsolo",
+  "enableAnticheat": true,
+  "enableRewards": true,
+  
+  "backend": {
+    "host": "localhost",
+    "port": 3551,
+    "apiKey": ""
+  },
+  
+  "anticheat": {
+    "enabled": true,
+    "checkInterval": 1000,
+    "maxSpeed": 2000,
+    "maxHeight": 5000,
+    "teleportThreshold": 5000
+  },
+  
+  "rewards": {
+    "killVBucks": 25,
+    "winVBucks": 100,
+    "killXP": 50,
+    "winXP": 300
+  },
+  
+  "bosses": {
+    "enableBosses": true,
+    "bossList": [
+      {
+        "name": "Meowscles",
+        "location": "The Yacht",
+        "health": 750,
+        "damage": 50,
+        "loot": ["Peow Peow Rifle", "Shield Potion"]
+      },
+      {
+        "name": "TNTina",
+        "location": "The Rig",
+        "health": 800,
+        "damage": 45,
+        "loot": ["Boom Bow", "Bandage Bazooka"]
+      },
+      {
+        "name": "Midas",
+        "location": "The Agency",
+        "health": 1000,
+        "damage": 60,
+        "loot": ["Drum Gun", "Big Pot"]
+      },
+      {
+        "name": "Brutus",
+        "location": "The Grotto",
+        "health": 850,
+        "damage": 55,
+        "loot": ["Minigun", "Shield Potion"]
+      },
+      {
+        "name": "Skye",
+        "location": "The Shark",
+        "health": 700,
+        "damage": 40,
+        "loot": ["Assault Rifle", "Grappler"]
+      }
+    ]
+  },
+  
+  "logging": {
+    "enableDebugLogs": true,
+    "logToFile": true,
+    "logFile": "gameserver.log"
+  }
+}
+
