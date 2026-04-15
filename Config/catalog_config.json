@@ -1,0 +1,121 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_604_Athena_Commando_F_Razor"
+    ],
+    "price": 1200
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_096_Athena_Commando_F_Founder"
+    ],
+    "price": 2000
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaDance:EID_PirateGold"
+    ],
+    "price": 800
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaBackpack:BID_480_Donut"
+    ],
+    "price": 1200
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_182_Sheath"
+    ],
+    "price": 1200
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_164_DragonNinja"
+    ],
+    "price": 1200
+  },
+  "daily7": {
+    "itemGrants": [
+      "AthenaLoadingscreen:LSID_095_Prisoner"
+    ],
+    "price": 200
+  },
+  "daily8": {
+    "itemGrants": [
+      "AthenaEmoji:Emoji_PeaceSign"
+    ],
+    "price": 200
+  },
+  "daily9": {
+    "itemGrants": [
+      "AthenaCharacter:CID_228_Athena_Commando_M_Vampire"
+    ],
+    "price": 1500
+  },
+  "daily10": {
+    "itemGrants": [
+      "AthenaCharacter:CID_913_Athena_Commando_F_York_D"
+    ],
+    "price": 800
+  },
+  "daily11": {
+    "itemGrants": [
+      "AthenaDance:EID_Whirlwind"
+    ],
+    "price": 500
+  },
+  "daily12": {
+    "itemGrants": [
+      "AthenaContrail:Trails_ID_036_FiberOptics"
+    ],
+    "price": 999999
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_341_Athena_Commando_F_SkullBrite"
+    ],
+    "price": 1200
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_551_Athena_Commando_M_YellowCamoD"
+    ],
+    "price": 800
+  },
+  "featured3": {
+    "itemGrants": [
+      "AthenaDance:EID_Wave"
+    ],
+    "price": 200
+  },
+  "featured4": {
+    "itemGrants": [
+      "AthenaBackpack:BID_291_Caterpillar"
+    ],
+    "price": 1200
+  },
+  "bundle1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_517_Athena_Commando_M_DarkEagleFire",
+      "AthenaPickaxe:Pickaxe_ID_364_PhotographerFemale1H",
+      "AthenaBackpack:BID_430_GalileoSpeedBoat_9RXE3",
+      "AthenaDance:EID_TakeTheElf"
+    ],
+    "price": 3700,
+    "SectionId": "Featured",
+    "TileSize": "Small"
+  },
+  "bundle2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_595_Athena_Commando_F_SoccerZombieC",
+      "AthenaPickaxe:Pickaxe_ID_322_FrogmanMale",
+      "AthenaBackpack:BID_082_ScubaFemale",
+      "AthenaDance:EID_SquishyDance"
+    ],
+    "price": 3000,
+    "SectionId": "Featured",
+    "TileSize": "Small"
+  }
+}
