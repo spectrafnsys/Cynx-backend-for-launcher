@@ -1,0 +1,56 @@
+{
+    "contentType": "collection",
+    "contentId": "motd-default-collection",
+    "tcId": "634e8e85-e2fc-4c68-bb10-93604cf6605f",
+    "contentItems": [
+      {
+        "contentType": "content-item",
+        "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+        "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+        "contentFields": {
+          "body": {
+              "en": "Version 0.0 [Public] Official Release"
+          },
+          "entryType": "Website",
+          "image": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://i.imgur.com/oMvVBgB.jpeg"
+            }
+          ],
+          "tabTitleOverride": "Vortyx",
+          "tileImage": [
+            {
+              "width": 1024,
+              "height": 512,
+              "url": "https://i.imgur.com/2f5eAku.png"
+            }
+          ],
+          "title": {
+            "ar": "مرحبًا بك في Vortyx!",
+            "en": "Welcome to Vortyx!",
+            "de": "Willkommen bei Vortyx!",
+            "es": "¡Bienvenidos a Vortyx!",
+            "es-419": "¡Bienvenidos a Vortyx!",
+            "fr": "Bienvenue sur Vortyx !",
+            "it": "Benvenuto in Vortyx!",
+            "ja": "Vortyxへようこそ！",
+            "ko": "Vortyx에 오신 것을 환영합니다!",
+            "pl": "Witaj w Vortyxze!",
+            "pt-BR": "Bem-vindo ao Vortyx!",
+            "ru": "Добро пожаловать в Vortyx!",
+            "tr": "Vortyx'a Hoş Geldiniz!"
+          },
+          "videoAutoplay": true,
+          "videoLoop": true,
+          "videoMute": true,
+          "videoStreamingEnabled": false,
+          "websiteButtonText": "JOIN THE DISCORD",
+          "websiteURL": "https://discord.gg/T9dtVC38xk"
+        },
+        "contentHash": "projectvortyxContentHash1337",
+        "contentSchemaName": "MotdWebsiteNewsWithVideo"
+        }
+    ]
+}
